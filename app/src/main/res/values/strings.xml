@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ECommerceApp</string>
+    <string name="terms_and_conditions"><u>Terms and Conditions</u></string>
+    <string name="login">Login</string>
+    <string name="already_account">Already have an account? </string>
+    <string name="forgot_password_msg">Enter your registered email address we will\n \t\t\tsend a email to reset your password.</string>
 </resources>
